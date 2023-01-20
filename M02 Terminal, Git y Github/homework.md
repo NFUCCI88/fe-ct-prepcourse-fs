@@ -63,7 +63,10 @@ WINDOWS $ type nul > [nombreDelArchivo]
 
 En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
 
----
+mkdir "_CarpetaHenry_";
+
+
+
 
 </br >
 
@@ -71,7 +74,8 @@ En este ejercicio debes crear una nueva carpeta con el nombre "_CarpetaHenry_". 
 
 Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
 
----
+cd "_CarpetaHenry_";
+
 
 </br >
 
@@ -79,7 +83,8 @@ Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
 
 Ahora debes crear un archivo llamado "**_README.md_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
 
----
+touch "**_README.md_**;
+
 
 </br >
 
